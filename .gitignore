@@ -1,0 +1,6 @@
+node_modules/
+dist/
+build/
+_archive/
+*.local
+.DS_Store
